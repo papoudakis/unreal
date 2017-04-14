@@ -2,7 +2,8 @@
 debug*.png
 *.mov
 log/*
-checkpoints*/*
+*checkpoints*/*
 memo.txt
 old
 .DS_Store
+vizdoom.*
